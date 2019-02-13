@@ -11,5 +11,4 @@
 ## Usage
 1. `$ git clone git@github.com:hiromoto-kazuya/scraping.git`
 2. `$ cd scraping`
-3. `$ bundle install`
-4. `$ ruby lib/scraping.rb`実行でjsonファイルが作成される
+3. `$ ruby lib/scraping.rb`実行でjsonファイルが作成される
